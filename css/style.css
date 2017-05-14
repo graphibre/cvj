@@ -1,0 +1,25 @@
+.card{
+  max-width: 233px;
+  border-radius: 0 0 5px 5px;
+  font-family: 'Miriam Libre', sans-serif;
+}
+
+img{
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+  .card_title{
+    margin: 5px 15px 5px 15px;
+    font-size: 1.2em;
+}
+  .card_link{
+    margin: 5px 15px 5px 15px;
+    font-size: 1em;
+    font-weight: 200;
+}
+  .card_intro{
+    margin: 5px 15px 5px 15px;
+    padding-bottom: 20px;
+    font-size: 0.8em;
+}
